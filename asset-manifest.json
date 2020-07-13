@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-redux-quiz/static/css/main.d490730c.chunk.css",
-    "main.js": "/react-redux-quiz/static/js/main.084cbe27.chunk.js",
-    "main.js.map": "/react-redux-quiz/static/js/main.084cbe27.chunk.js.map",
+    "main.js": "/react-redux-quiz/static/js/main.c1fd15c9.chunk.js",
+    "main.js.map": "/react-redux-quiz/static/js/main.c1fd15c9.chunk.js.map",
     "runtime-main.js": "/react-redux-quiz/static/js/runtime-main.b8770d9f.js",
     "runtime-main.js.map": "/react-redux-quiz/static/js/runtime-main.b8770d9f.js.map",
-    "static/js/2.b70533f8.chunk.js": "/react-redux-quiz/static/js/2.b70533f8.chunk.js",
-    "static/js/2.b70533f8.chunk.js.map": "/react-redux-quiz/static/js/2.b70533f8.chunk.js.map",
+    "static/js/2.7a1b1360.chunk.js": "/react-redux-quiz/static/js/2.7a1b1360.chunk.js",
+    "static/js/2.7a1b1360.chunk.js.map": "/react-redux-quiz/static/js/2.7a1b1360.chunk.js.map",
     "index.html": "/react-redux-quiz/index.html",
-    "precache-manifest.4d0f9a31fe462dbba3a49187773b8c05.js": "/react-redux-quiz/precache-manifest.4d0f9a31fe462dbba3a49187773b8c05.js",
+    "precache-manifest.8ff2e2c59fc08654eb81927c694c75f6.js": "/react-redux-quiz/precache-manifest.8ff2e2c59fc08654eb81927c694c75f6.js",
     "service-worker.js": "/react-redux-quiz/service-worker.js",
     "static/css/main.d490730c.chunk.css.map": "/react-redux-quiz/static/css/main.d490730c.chunk.css.map",
-    "static/js/2.b70533f8.chunk.js.LICENSE.txt": "/react-redux-quiz/static/js/2.b70533f8.chunk.js.LICENSE.txt"
+    "static/js/2.7a1b1360.chunk.js.LICENSE.txt": "/react-redux-quiz/static/js/2.7a1b1360.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8770d9f.js",
-    "static/js/2.b70533f8.chunk.js",
+    "static/js/2.7a1b1360.chunk.js",
     "static/css/main.d490730c.chunk.css",
-    "static/js/main.084cbe27.chunk.js"
+    "static/js/main.c1fd15c9.chunk.js"
   ]
 }

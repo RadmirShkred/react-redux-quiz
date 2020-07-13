@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f6198f996ba8b808d775dc43ad95e77",
+    "revision": "9ac6b4fc30584e1b7e47d6b3686e9f6c",
     "url": "/react-redux-quiz/index.html"
   },
   {
-    "revision": "222369a51aef033dce24",
+    "revision": "c9c73cc568f3c194fe12",
     "url": "/react-redux-quiz/static/css/main.d490730c.chunk.css"
   },
   {
-    "revision": "bdc55520a44196bc6cdb",
-    "url": "/react-redux-quiz/static/js/2.b70533f8.chunk.js"
+    "revision": "deef04d833972a90fbe0",
+    "url": "/react-redux-quiz/static/js/2.7a1b1360.chunk.js"
   },
   {
     "revision": "fae6e97322ddc0579046aa829b382727",
-    "url": "/react-redux-quiz/static/js/2.b70533f8.chunk.js.LICENSE.txt"
+    "url": "/react-redux-quiz/static/js/2.7a1b1360.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "222369a51aef033dce24",
-    "url": "/react-redux-quiz/static/js/main.084cbe27.chunk.js"
+    "revision": "c9c73cc568f3c194fe12",
+    "url": "/react-redux-quiz/static/js/main.c1fd15c9.chunk.js"
   },
   {
     "revision": "a214b0f7bb8515b6b9d1",
